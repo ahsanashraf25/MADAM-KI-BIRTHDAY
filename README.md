@@ -1,5 +1,3 @@
-# MADAM-KI-BIRTHDAY
-Happy Birthday Beghum g. 
 <!DOCTYPE html>
 <html lang="en">
 <head>
